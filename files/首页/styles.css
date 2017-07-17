@@ -2272,7 +2272,7 @@
   width:62px;
   height:37px;
   background:inherit;
-  background-color:rgba(121, 121, 121, 1);
+  background-color:rgba(102, 153, 255, 1);
   border:none;
   border-radius:45px;
   border-top-right-radius:0px;
@@ -2317,7 +2317,7 @@
   border-width:0px;
   position:absolute;
   left:451px;
-  top:649px;
+  top:634px;
   width:30px;
   height:42px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';

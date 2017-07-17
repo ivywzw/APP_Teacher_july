@@ -2242,9 +2242,12 @@
   width:90px;
   height:37px;
   background:inherit;
-  background-color:rgba(188, 188, 188, 1);
+  background-color:rgba(102, 153, 255, 1);
   border:none;
-  border-radius:0px;
+  border-right:0px;
+  border-radius:25px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
